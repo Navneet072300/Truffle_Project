@@ -37,3 +37,7 @@ From there, follow the instructions on the hosted React app. It will walk you th
 - __Where can I find more resources?__
 
   This Box is a sweet combo of [Truffle](https://trufflesuite.com) and [Webpack](https://webpack.js.org). Either one would be a great place to start!
+
+  ## Output
+  ![image](https://github.com/Navneet072300/Truffle_Project/assets/89797286/37024f20-8212-4628-9375-ed53d4a99f35)
+
